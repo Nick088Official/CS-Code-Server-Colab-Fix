@@ -9,6 +9,9 @@
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+## Hugging Face Space
+- Duplicate [the hugging face space 🤗](https://huggingface.co/spaces/SpacesExamples/vscode?duplicate=true)
+
 ## Kaggle
 - [Run UI ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://github.com/Nick088Official/Microsoft-Visual-Studio-Online-Ports/blob/main/kaggle-microsoft-visual-studio-ui.ipynb)
 
