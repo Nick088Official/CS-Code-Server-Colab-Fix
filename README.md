@@ -10,10 +10,10 @@
 </a>
 
 ## Hugging Face Space
-- Duplicate [the hugging face space 🤗](https://huggingface.co/spaces/SpacesExamples/vscode?duplicate=true)
+- Duplicate [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/SpacesExamples/vscode?duplicate=true)
 
 ## Kaggle
-- [Run UI ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://github.com/Nick088Official/Microsoft-Visual-Studio-Online-Ports/blob/main/kaggle-microsoft-visual-studio-ui.ipynb)
+- [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/sgandhi99/whisper-jax-tpu)
 
 1. Download one of the 2 Kaggle Notebooks Files above
 2. Go on https://kaggle.com, be sure you make an account and are phone verified.
